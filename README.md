@@ -1,2 +1,4 @@
 # app-dev
-My first repository
+#**Venom** is a 2018 superhero film based on the Marvel Comics character of the same name. The movie stars *Tom Hardy* as **Eddie Brock**, a journalist who becomes the host for an alien symbiote, **Venom**, after an experiment goes wrong.
+
+
